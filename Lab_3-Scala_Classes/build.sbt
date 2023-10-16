@@ -1,0 +1,1 @@
+libraryDependencies += "it.bitbl" %% "scala-faker" % "0.4"

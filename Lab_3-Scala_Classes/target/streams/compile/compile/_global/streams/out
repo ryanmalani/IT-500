@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ryanmalani/Downloads/School/Marymount University/IT 500/Lab_3-Scala_Classes/Main.scala:14:15: object Number is not a member of package faker[0m
+[0m[[0m[31merror[0m] [0m[0m        faker.Number.numberBetween(50000, 100000)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
